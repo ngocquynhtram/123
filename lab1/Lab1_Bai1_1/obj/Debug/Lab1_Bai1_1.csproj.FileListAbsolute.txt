@@ -1,0 +1,13 @@
+D:\lab1\Lab1_Bai1_1\bin\Debug\Lab1_Bai1_1.exe.config
+D:\lab1\Lab1_Bai1_1\bin\Debug\Lab1_Bai1_1.exe
+D:\lab1\Lab1_Bai1_1\bin\Debug\Lab1_Bai1_1.pdb
+D:\lab1\Lab1_Bai1_1\obj\Debug\Lab1_Bai1_1.csproj.AssemblyReference.cache
+D:\lab1\Lab1_Bai1_1\obj\Debug\Lab1_Bai1_1.frmChinh.resources
+D:\lab1\Lab1_Bai1_1\obj\Debug\Lab1_Bai1_1.Properties.Resources.resources
+D:\lab1\Lab1_Bai1_1\obj\Debug\Lab1_Bai1_1.csproj.GenerateResource.cache
+D:\lab1\Lab1_Bai1_1\obj\Debug\Lab1_Bai1_1.csproj.CoreCompileInputs.cache
+D:\lab1\Lab1_Bai1_1\obj\Debug\Lab1_Bai1_1.exe
+D:\lab1\Lab1_Bai1_1\obj\Debug\Lab1_Bai1_1.pdb
+D:\lab1\Lab1_Bai1_1\obj\Debug\Lab1_Bai1_1.frmBai1.resources
+D:\lab1\Lab1_Bai1_1\obj\Debug\Lab1_Bai1_1.frmBai2.resources
+D:\lab1\Lab1_Bai1_1\obj\Debug\Lab1_Bai1_1.frmBai3.resources
